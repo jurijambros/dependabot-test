@@ -1,0 +1,59 @@
+# .NET / IDE user files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Environment files (secrets)
+.env
+.env.*
+
+# Build artifacts
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Ll]og/
+[Ll]ogs/
+*.log
+*.tlog
+artifacts/
+*.binlog
+
+# Visual Studio cache
+.vs/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# VS Code workspace settings
+.vscode/
+
+# Test results & coverage
+[Tt]est[Rr]esult*/
+TestResults/
+*.trx
+*.VisualState.xml
+*.coverage
+*.coveragexml
+CoverageResults/
+coverage/
+
+# BenchmarkDotNet
+BenchmarkDotNet.Artifacts/
+
+# ASP.NET scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet packages
+*.nupkg
+*.snupkg
+# Legacy packages/ folder (keep build scripts if needed)
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+!**/[Pp]ackages/repositories.config
+
+# Misc
+*.pidb
+*.svclog
