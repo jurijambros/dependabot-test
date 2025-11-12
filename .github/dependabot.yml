@@ -10,4 +10,5 @@ updates:
     schedule:
       interval: "daily"
     groups:
-      patterns: ["Microsoft.*", "System.*"]
+      microsoft-and-system:
+        patterns: ["Microsoft.*", "System.*"]
