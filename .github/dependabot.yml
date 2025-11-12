@@ -8,5 +8,4 @@ updates:
   - package-ecosystem: "nuget"
     directory: "/"
     schedule:
-      interval: "cron"
-      cronjob: "*/30 * * * *"    # every 30 minutes
+      interval: "daily"
