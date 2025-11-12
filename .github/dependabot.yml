@@ -10,5 +10,6 @@ updates:
     schedule:
       interval: "daily"
     groups:
-      microsoft-and-system:
+      microsoft-dotnet-update:
         patterns: ["Microsoft.*", "System.*"]
+        update-types: ["major"]
