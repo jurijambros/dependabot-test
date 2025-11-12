@@ -12,6 +12,8 @@
     <PackageReference Include="Bogus" />
     <PackageReference Include="FluentFTP" />
     <PackageReference Include="SharpZipLib" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" />
   </ItemGroup>
 
 </Project>
