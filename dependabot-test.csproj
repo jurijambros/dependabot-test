@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="Bogus" Version="22.0.1" />
+    <PackageReference Include="FluentFTP" Version="49.0.0" />
     <PackageReference Include="SharpZipLib" Version="1.2.0" />
   </ItemGroup>
 
