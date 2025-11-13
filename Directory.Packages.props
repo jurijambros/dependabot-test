@@ -9,8 +9,8 @@
     <PackageVersion Include="Bogus" Version="35.6.5" />
     <PackageVersion Include="FluentFTP" Version="53.0.2" />
     <PackageVersion Include="SharpZipLib" Version="1.4.2" />
-    <PackageVersion Include="Microsoft.Extensions.Configuration" Version="6.0.0" />
-    <PackageVersion Include="Microsoft.Extensions.Configuration.Json" Version="8.0.0" />
+    <PackageVersion Include="Microsoft.Extensions.Configuration" Version="10.0.0" />
+    <PackageVersion Include="Microsoft.Extensions.Configuration.Json" Version="10.0.0" />
     <PackageVersion Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
     <PackageVersion Include="System.Text.Json" Version="8.0.0" />
     <PackageVersion Include="System.Runtime.Caching" Version="8.0.0" />
