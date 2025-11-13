@@ -1,0 +1,10 @@
+version: 2
+updates:
+  - package-ecosystem: "nuget"
+    directory: "/"
+    schedule:
+      interval: "cron"
+      cronjob: "0 6 1 * *"
+    groups:
+      microsoft-dotnet-update:
+        patterns: ["Microsoft.*", "System.*"]
